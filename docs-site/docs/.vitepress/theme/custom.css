@@ -1,0 +1,128 @@
+/**
+ * OpenSIPS 文档站样式增强
+ *
+ * 设计原则：
+ * 1. 不改品牌色 —— 保持 VitePress 默认蓝。所有强调色一律引用 --vp-c-brand-* 变量，
+ *    以后想换主色，只需在下面 :root 里改 3 个变量，无需逐条替换颜色值。
+ * 2. 只做排版层面的增强 —— 中文字体栈、正文行高、h2 标题色条、代码块圆角、表格斑马纹。
+ * 3. 中英双语共用同一套样式，不按 locale 区分，避免两套观感不一致。
+ *
+ * 回退方式：删除本目录（docs/.vitepress/theme/）即恢复 VitePress 默认外观。
+ */
+
+:root {
+  /* 中文字体栈：优先系统 UI 字体，中文回退到苹方 / 微软雅黑 / 思源黑体 */
+  --vp-font-family-base: 'Inter', ui-sans-serif, system-ui, -apple-system,
+    'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI',
+    'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+  --vp-font-family-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code',
+    Consolas, 'Courier New', monospace;
+
+  /* 版心略微加宽，长命令行和宽表格不易折行 */
+  --vp-layout-max-width: 1440px;
+}
+
+/* ===== 正文 ===== */
+
+/* 默认 1.6 行高对中文偏紧，放宽到 1.78 并加一点字距 */
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.78;
+  letter-spacing: 0.01em;
+}
+
+/* ===== 标题 ===== */
+
+/* h2 左侧竖色条，颜色跟随品牌色（当前为默认蓝，换色后自动跟随） */
+.vp-doc h2 {
+  margin-top: 2.6rem;
+  padding-top: 0;
+  padding-left: 12px;
+  border-top: none;
+  border-left: 3px solid var(--vp-c-brand-1);
+}
+
+.vp-doc h2:first-child {
+  margin-top: 0;
+}
+
+/* ===== 代码块 ===== */
+
+.vp-doc div[class*='language-'] {
+  margin: 16px 0;
+  border-radius: 10px;
+}
+
+.vp-doc :not(pre) > code {
+  border-radius: 4px;
+}
+
+/* ===== 表格 ===== */
+
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-alt);
+  font-weight: 500;
+}
+
+.vp-doc tr:nth-child(2n) {
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* ===== 侧边栏与右侧大纲 ===== */
+
+/* 当前页在侧边栏里的文字加粗，配合默认的左侧指示条 */
+.VPSidebarItem.is-active > .item .text {
+  font-weight: 500;
+}
+
+/* 大纲里当前小节加粗 */
+.VPDocAsideOutline .outline-link.active {
+  font-weight: 500;
+}
+
+/* ===== 首页 ===== */
+
+/* 分区卡片：hover 时边框透出品牌色 */
+.VPFeature {
+  transition: border-color 0.25s;
+}
+
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+/* 首页正文：内边距按 hero / features 的断点走，左边界才能对齐 */
+.VPHome .vp-doc {
+  padding: 0 24px 48px;
+}
+
+@media (min-width: 640px) {
+  .VPHome .vp-doc {
+    padding: 0 48px 56px;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHome .vp-doc {
+    padding: 0 64px 64px;
+  }
+}
+
+/* hero 标题：VitePress 固定 56px 行高配 48px 字号，中文字形更高会被裁顶 */
+.VPHero .name,
+.VPHero .text {
+  line-height: 1.25;
+  padding-bottom: 4px;
+}
+
+/* tagline 放宽，避免长句被挤成多行 */
+@media (min-width: 960px) {
+  .VPHero .tagline {
+    max-width: 680px;
+  }
+}
