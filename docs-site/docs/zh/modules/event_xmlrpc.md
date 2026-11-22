@@ -1,7 +1,6 @@
 ---
 title: "event_xmlrpc 模块"
 description: "该模块是一个 XMLRPC 客户端的实现，用于在 OpenSIPS 触发某些通知时通知 XMLRPC 服务器。"
-sidebar: false
 ---
 
 

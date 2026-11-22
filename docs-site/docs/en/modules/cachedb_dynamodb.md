@@ -1,7 +1,6 @@
 ---
 title: "cachedb_dynamodb Module"
 description: "This module is an implementation of a cachedb system designed to work with Amazon DynamoDB."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "PUA XMPP module"
 description: "This module is a gateway for presence between SIP and XMPP."
-sidebar: false
 ---
 
 

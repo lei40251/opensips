@@ -1,7 +1,6 @@
 ---
 title: "presence_reginfo Module"
 description: "The module enables the handling of \"Event: reg\" (as defined in RFC 3680) inside of the presence module."
-sidebar: false
 ---
 
 

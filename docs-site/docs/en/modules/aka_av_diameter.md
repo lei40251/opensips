@@ -1,7 +1,6 @@
 ---
 title: "AKA Authentication Vector Diameter Module"
 description: "This module is an extension to the AKA_AUTH module providing a Diameter AKA AV Manager that implements the Multimedia-Auth-Request and Multimedia-Auth-Answer Diameter commands."
-sidebar: false
 ---
 
 

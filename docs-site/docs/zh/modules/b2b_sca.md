@@ -1,7 +1,6 @@
 ---
 title: "B2B_SCA 模块"
 description: "本模块为 OpenSIPS 提供核心的 SCA（Shared Call Appearance，共享呼叫外观）功能，设计上与 presence_callinfo 模块配合工作。"
-sidebar: false
 ---
 
 

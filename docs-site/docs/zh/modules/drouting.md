@@ -1,7 +1,6 @@
 ---
 title: "drouting 模块"
 description: "动态路由（Dynamic Routing）是一个基于多种条件为特定呼叫选择最佳网关/目的地以完成投递的模块。"
-sidebar: false
 ---
 
 

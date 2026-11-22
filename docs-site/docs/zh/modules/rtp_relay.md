@@ -1,7 +1,6 @@
 ---
 title: "rtp_relay 模块"
 description: "本模块旨在简化在 OpenSIPS 脚本中使用各种 RTP 中继服务器（如 RTPProxy、RTPEngine、Media Proxy）的方式，并提供依赖 RTP 中继的各种复杂功能（如媒体重新锚定）。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "imc Module"
 description: "This module offers support for instant message conference."
-sidebar: false
 ---
 
 

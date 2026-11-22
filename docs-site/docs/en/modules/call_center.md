@@ -1,7 +1,6 @@
 ---
 title: "Call-Center Module"
 description: "The Call Center module implements an inbound call center system with call flows (for queuing the received calls) and agents (for answering the calls)."
-sidebar: false
 ---
 
 

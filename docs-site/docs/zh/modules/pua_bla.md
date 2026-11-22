@@ -1,7 +1,6 @@
 ---
 title: "PUA BLA 模块"
 description: "pua_bla 模块根据 draft-anil-sipping-bla-03.txt 中的规范提供桥接线路呈现（BLA）支持。"
-sidebar: false
 ---
 
 

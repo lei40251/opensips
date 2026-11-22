@@ -1,7 +1,6 @@
 ---
 title: "rtpproxy Module"
 description: "This module is used by OpenSIPS to communicate with RTPProxy, a media relay proxy used to make the communication between user agents behind NAT possible."
-sidebar: false
 ---
 
 

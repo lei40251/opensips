@@ -1,7 +1,6 @@
 ---
 title: "B2B_LOGIC"
 description: "This module represents the logic engine of B2BUA, responsible of actually implementing the B2BUA services using the functions offered by the low level."
-sidebar: false
 ---
 
 

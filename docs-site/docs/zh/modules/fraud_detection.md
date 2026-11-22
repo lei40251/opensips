@@ -1,7 +1,6 @@
 ---
 title: "欺诈检测模块"
 description: "本模块提供了一种防范某些基本欺诈攻击的方法。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

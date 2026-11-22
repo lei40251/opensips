@@ -1,7 +1,6 @@
 ---
 title: "Calling Operations Module"
 description: "This module provides a set of functions that allow the user to control ongoing calls."
-sidebar: false
 ---
 
 

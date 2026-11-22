@@ -1,7 +1,6 @@
 ---
 title: "proto_ws Module"
 description: "The WebSocket protocol ([RFC 6455](http://tools.ietf.org/html/rfc6455)) provides an end-to-end full-duplex communication channel between two web-based applications."
-sidebar: false
 ---
 
 

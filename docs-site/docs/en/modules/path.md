@@ -1,7 +1,6 @@
 ---
 title: "path Module"
 description: "This module is designed to be used at intermediate sip proxies like loadbalancers in front of registrars and proxies."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Config Module"
 description: "The *config* module enables dynamic, runtime configuration of OpenSIPS parameters by loading them from persistent storage at startup and exposing them to the script level via the [$config(name)](#configname) pseudo-variable."
-sidebar: false
 ---
 
 

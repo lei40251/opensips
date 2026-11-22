@@ -1,7 +1,6 @@
 ---
 title: "db_postgres 模块"
 description: "db_postgres 模块说明。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

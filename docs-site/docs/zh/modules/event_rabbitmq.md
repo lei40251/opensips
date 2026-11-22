@@ -1,7 +1,6 @@
 ---
 title: "event_rabbitmq 模块"
 description: "*RabbitMQ*（[http://www.rabbitmq.com/](http://www.rabbitmq.com/)）是一个开源消息服务器。"
-sidebar: false
 ---
 
 

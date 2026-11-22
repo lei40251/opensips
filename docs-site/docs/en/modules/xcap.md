@@ -1,7 +1,6 @@
 ---
 title: "XCAP Module"
 description: "The module contains several parameters and functions common to all modules using XCAP capabilities."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "tls_openssl 模块"
 description: "本模块使用 [openSSL](https://www.openssl.org/) 库实现 TLS 操作。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

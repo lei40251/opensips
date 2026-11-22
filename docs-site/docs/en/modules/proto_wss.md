@@ -1,7 +1,6 @@
 ---
 title: "proto_wss Module"
 description: "The WSS (Secure WebSocket) module provides the ability to communicate with a WebSocket ([RFC 6455](http://tools.ietf.org/html/rfc6455)) client or server over a secure (TLS encrypted) channel."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "proto_bins Module"
 description: "This module implements a secure Binary communication protocol over TLS, to be used by the OpenSIPS clustering engine provided by the clusterer module."
-sidebar: false
 ---
 
 

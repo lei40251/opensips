@@ -1,7 +1,6 @@
 ---
 title: "mi_fifo 模块"
 description: "本模块为管理接口提供 FIFO 传输层实现。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

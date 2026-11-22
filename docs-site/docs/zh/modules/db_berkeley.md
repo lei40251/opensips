@@ -1,7 +1,6 @@
 ---
 title: "DB_BERKELEY 模块"
 description: "本模块将 Berkeley DB 集成到 OpenSIPS 中，实现了 OpenSIPS 中定义的 DB API。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

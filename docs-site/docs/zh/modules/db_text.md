@@ -1,7 +1,6 @@
 ---
 title: "DB_TEXT 模块"
 description: "本模块实现了一个基于文本文件的简化数据库引擎。OpenSIPS DB 接口可以用它替代其他数据库模块（如 MySQL）。"
-sidebar: false
 ---
 
 

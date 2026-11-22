@@ -1,7 +1,6 @@
 ---
 title: "clusterer 模块"
 description: "clusterer 模块用于将多个 OpenSIPS 实例组织为组（集群），使节点之间可以相互通信，以便复制、共享信息或执行分布式任务。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

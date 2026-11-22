@@ -1,7 +1,6 @@
 ---
 title: "呼叫操作模块"
 description: "该模块提供一组函数，允许用户控制正在进行的通话。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

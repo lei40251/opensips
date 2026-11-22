@@ -1,7 +1,6 @@
 ---
 title: "MSRP UA Module"
 description: "This module implements an User Agent capable of establishing messaging sessions using the MSRP(RFC 4976) protocol."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "freeswitch 模块"
 description: "freeswitch 模块是针对 FreeSWITCH Event Socket Layer 接口的 C 语言驱动。"
-sidebar: false
 ---
 
 

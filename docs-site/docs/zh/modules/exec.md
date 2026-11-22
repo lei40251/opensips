@@ -1,7 +1,6 @@
 ---
 title: "exec 模块"
 description: "Exec 模块支持从 OpenSIPS 脚本中执行外部命令。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "UAC AUTH Module"
 description: "UAC AUTH (User Agent Client Authentication) module provides a common API for building authentication headers."
-sidebar: false
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: "DB_CACHEDB Module"
-sidebar: false
 ---
 
 

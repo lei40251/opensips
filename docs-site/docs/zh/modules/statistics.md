@@ -1,7 +1,6 @@
 ---
 title: "统计模块 (statistics)"
 description: "统计模块是对内部统计管理器的封装，使脚本编写者可以动态定义并使用统计变量。"
-sidebar: false
 ---
 
 

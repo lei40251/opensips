@@ -1,7 +1,6 @@
 ---
 title: "pike Module"
 description: "The module provides a simple mechanism for DOS protection - DOS based on floods at network level."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "textops Module"
 description: "The module implements text based operations over the SIP message processed by OpenSIPS."
-sidebar: false
 ---
 
 

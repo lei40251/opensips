@@ -1,7 +1,6 @@
 ---
 title: "DB_PERLVDB Module"
 description: "The Perl Virtual Database (VDB) provides a virtualization framework for OpenSIPS's database access. It does not handle a particular database engine itself but lets the user relay database requests to arbitrary Perl functions."
-sidebar: false
 ---
 
 

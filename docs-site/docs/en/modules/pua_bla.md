@@ -1,7 +1,6 @@
 ---
 title: "PUA BLA module"
 description: "The pua_bla module enables Bridged Line Appearances support according to the specifications in draft-anil-sipping-bla-03.txt."
-sidebar: false
 ---
 
 

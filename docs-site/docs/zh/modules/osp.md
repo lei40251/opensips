@@ -1,7 +1,6 @@
 ---
 title: "osp 模块"
 description: "OSP 模块使 OpenSIPS 能够基于 ETSI 定义的 OSP 标准（TS 101 321 V4.1.1）支持安全的多边对等互联。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

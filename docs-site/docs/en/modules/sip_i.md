@@ -1,7 +1,6 @@
 ---
 title: "SIP-I Module"
 description: "This module offers the possibility of processing ISDN User Part(ISUP) messages encapsulated in SIP."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "sipmsgops 模块"
 description: "该模块在 OpenSIPS 处理的消息之上实现基于 SIP 的操作。"
-sidebar: false
 ---
 
 

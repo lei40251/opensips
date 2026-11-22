@@ -1,6 +1,5 @@
 ---
 title: "Trie Module"
-sidebar: false
 ---
 
 

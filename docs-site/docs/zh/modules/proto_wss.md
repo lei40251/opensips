@@ -1,7 +1,6 @@
 ---
 title: "proto_wss 模块"
 description: "WSS（安全 WebSocket）模块提供了通过安全（TLS 加密）通道与 WebSocket（[RFC 6455](http://tools.ietf.org/html/rfc6455)）客户端或服务器通信的能力。"
-sidebar: false
 ---
 
 

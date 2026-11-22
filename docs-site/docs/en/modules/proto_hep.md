@@ -1,7 +1,6 @@
 ---
 title: "proto_hep Module"
 description: "The **proto_hep** module is a transport module which implements hepV1 and hepV2 UDP-based communication and hepV3 TCP-based communication."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "event_virtual Module"
 description: "The *event_virtual* module provides the possibility to have multiple external applications, using different transport protocols, subscribed to the OpenSIPS Event Interface as a single virtual subscriber, for a specific event."
-sidebar: false
 ---
 
 

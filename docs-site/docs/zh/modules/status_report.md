@@ -1,7 +1,6 @@
 ---
 title: "Status/Reports 模块"
 description: "Status/Report 模块是对内部 status/report 框架的封装，允许脚本编写者动态定义并使用 SR 组。"
-sidebar: false
 ---
 
 

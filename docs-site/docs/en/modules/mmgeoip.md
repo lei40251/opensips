@@ -1,7 +1,6 @@
 ---
 title: "mmgeoip Module"
 description: "This module is a lightweight wrapper for the MaxMind GeoIP API."
-sidebar: false
 ---
 
 

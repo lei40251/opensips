@@ -1,7 +1,6 @@
 ---
 title: "Benchmark Module"
 description: "This module helps developers to benchmark their module functions. By adding this module's functions via the configuration file or through its API, OpenSIPS can log profiling information for every function."
-sidebar: false
 ---
 
 

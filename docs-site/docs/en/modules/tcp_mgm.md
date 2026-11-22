@@ -1,7 +1,6 @@
 ---
 title: "TCP Management Module (tcp_mgm)"
 description: "This module provides optional, SQL-based support for fine-grained management of all TCP connections taking place on OpenSIPS."
-sidebar: false
 ---
 
 

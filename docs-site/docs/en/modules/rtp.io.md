@@ -1,7 +1,6 @@
 ---
 title: "RTP.io Module"
 description: "The RTP.io module provides an integrated solution for handling RTP traffic within OpenSIPS, enabling RTP relaying and processing directly inside the OpenSIPS process."
-sidebar: false
 ---
 
 

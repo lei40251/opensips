@@ -1,7 +1,6 @@
 ---
 title: "SQLops Module"
 description: "SQLops (SQL-operations) modules implements a set of script functions for generic SQL standard queries (raw or structure queries)."
-sidebar: false
 ---
 
 

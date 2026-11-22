@@ -1,7 +1,6 @@
 ---
 title: "tm 模块"
 description: "TM 模块为 SIP 事务提供有状态处理能力。"
-sidebar: false
 ---
 
 

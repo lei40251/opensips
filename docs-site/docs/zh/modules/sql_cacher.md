@@ -1,7 +1,6 @@
 ---
 title: "sql_cacher 模块"
 description: "sql_cacher 模块可以把基于 SQL 的数据库中的数据（借助实现了 DB API 的各种 OpenSIPS 模块）缓存到 OpenSIPS 内部通过 CacheDB 接口实现的缓存系统中。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

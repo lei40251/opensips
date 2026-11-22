@@ -1,7 +1,6 @@
 ---
 title: "rtpproxy 模块"
 description: "该模块供 OpenSIPS 与 RTPProxy 通信使用。RTPProxy 是一个媒体中继代理，用于使位于 NAT 之后的用户代理之间能够通信。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "jabber Module"
 description: "This is new version of Jabber module that integrates XODE XML parser for parsing Jabber messages."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "regex 模块"
 description: "本模块使用强大的 [PCRE](http://www.pcre.org/) 库提供针对正则表达式的匹配操作。"
-sidebar: false
 ---
 
 

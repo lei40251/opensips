@@ -1,7 +1,6 @@
 ---
 title: "MSILO 模块"
 description: "本模块为 OpenSIPS 服务器提供离线消息存储。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

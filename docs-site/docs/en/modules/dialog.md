@@ -1,7 +1,6 @@
 ---
 title: "dialog Module"
 description: "The dialog module provides dialog awareness to the OpenSIPS proxy."
-sidebar: false
 ---
 
 

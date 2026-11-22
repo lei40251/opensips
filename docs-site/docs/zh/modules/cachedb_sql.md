@@ -1,7 +1,6 @@
 ---
 title: "cachedb_sql 模块"
 description: "本模块是一个缓存系统的实现，设计用于配合常规的基于 SQL 的服务器工作。"
-sidebar: false
 ---
 
 

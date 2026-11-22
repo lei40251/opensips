@@ -1,7 +1,6 @@
 ---
 title: "PUA reginfo 模块 (pua_reginfo)"
 description: "本模块按照 RFC 3680 发布与 reg 事件相关的信息。"
-sidebar: false
 ---
 
 

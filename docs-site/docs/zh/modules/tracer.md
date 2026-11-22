@@ -1,7 +1,6 @@
 ---
 title: "tracer 模块"
 description: "提供将进入/发出的 SIP 消息存储到数据库的能力。"
-sidebar: false
 ---
 
 

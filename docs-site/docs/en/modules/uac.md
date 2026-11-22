@@ -1,7 +1,6 @@
 ---
 title: "UAC Module"
 description: "UAC (User Agent Client) module provides some basic UAC functionalities like FROM / TO header manipulation (anonymization) or client authentication."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "proto_bin 模块"
 description: "**proto_bin** 模块是一个传输模块，实现基于 TCP 的 Binary Interface 通信。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

@@ -1,7 +1,6 @@
 ---
 title: "cachedb_sql Module"
 description: "This module is an implementation of a cache system designed to work with a regular SQL-based server."
-sidebar: false
 ---
 
 

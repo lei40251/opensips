@@ -1,7 +1,6 @@
 ---
 title: "registrar Module"
 description: "The module contains SIP REGISTER request processing logic, per RFC 3261."
-sidebar: false
 ---
 
 

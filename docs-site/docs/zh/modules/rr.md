@@ -1,7 +1,6 @@
 ---
 title: "rr 模块"
 description: "该模块包含记录路由逻辑"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Python Module"
 description: "This module can be used to efficiently run Python code directly from the OpenSIPS script, without executing the *python* interpreter."
-sidebar: false
 ---
 
 

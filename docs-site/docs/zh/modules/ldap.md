@@ -1,7 +1,6 @@
 ---
 title: "ldap 模块"
 description: "ldap 模块为 OpenSIPS 实现 LDAP 查询接口。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

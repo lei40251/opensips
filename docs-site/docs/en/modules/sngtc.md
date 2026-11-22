@@ -1,7 +1,6 @@
 ---
 title: "sngtc Module"
 description: "The **Sangoma transcoding module** offers the possibility of performing voice transcoding with the [D-series transcoding cards manufactured by Sangoma](https://wiki.sangoma.com/display/MTC/Media+Transcoding)."
-sidebar: false
 ---
 
 

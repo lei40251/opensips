@@ -1,7 +1,6 @@
 ---
 title: "ENUM 模块"
 description: "ENUM 模块实现 [i_]enum_query 函数，用于根据当前 Request-URI 的用户部分发起 ENUM 查询。"
-sidebar: false
 ---
 
 

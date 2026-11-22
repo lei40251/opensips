@@ -1,7 +1,6 @@
 ---
 title: "Options Module"
 description: "This module provides a function to answer OPTIONS requests which are directed to the server itself."
-sidebar: false
 ---
 
 

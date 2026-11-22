@@ -1,7 +1,6 @@
 ---
 title: "rtpengine 模块"
 description: "本模块使媒体流能够经由 RTP 代理进行中继。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

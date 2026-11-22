@@ -1,7 +1,6 @@
 ---
 title: "event_kafka 模块"
 description: "本模块是 Apache Kafka 生产者的一个实现。"
-sidebar: false
 ---
 
 

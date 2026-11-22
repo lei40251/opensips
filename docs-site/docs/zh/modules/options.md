@@ -1,7 +1,6 @@
 ---
 title: "options 模块"
 description: "本模块提供一个函数，用于应答直接发往服务器自身的 OPTIONS 请求。"
-sidebar: false
 ---
 
 

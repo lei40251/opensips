@@ -1,7 +1,6 @@
 ---
 title: "launch_darkly 模块"
 description: "本模块实现了对 Launch Darkly 功能管理云的支持。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

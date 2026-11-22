@@ -1,7 +1,6 @@
 ---
 title: "Python 模块"
 description: "本模块可直接从 OpenSIPS 脚本中高效运行 Python 代码，而无需执行 *python* 解释器。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

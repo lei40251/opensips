@@ -1,7 +1,6 @@
 ---
 title: "qrouting 模块"
 description: "*qrouting* 是一个位于 drouting、dialog 和 tm 之上的模块，对一系列关键的网关信令质量指标（即 ASR、CCR、PDD、AST、ACD —— 详见下文）进行实时跟踪。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "domainpolicy 模块"
 description: "Domain Policy 模块结合 draft-lendl-domain-policy-ddds-02、draft-lendl-speermint-federations-02 与 draft-lendl-speermint-technical-policy-00 实现域策略。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

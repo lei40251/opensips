@@ -1,7 +1,6 @@
 ---
 title: "carrierroute"
 description: "A module which provides routing, balancing and blacklisting capabilities."
-sidebar: false
 ---
 
 

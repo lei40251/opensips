@@ -1,7 +1,6 @@
 ---
 title: "http2d 模块"
 description: "本模块基于 nghttp2 库提供了一个支持 h2 ALPN 的 RFC 7540/9113 HTTP/2 服务器实现。"
-sidebar: false
 ---
 
 

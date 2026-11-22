@@ -1,7 +1,6 @@
 ---
 title: "JANUS Module"
 description: "The *\"janus\"* module is a C driver for the Janus websocket protocol."
-sidebar: false
 ---
 
 

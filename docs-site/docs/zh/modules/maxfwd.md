@@ -1,7 +1,6 @@
 ---
 title: "maxfwd 模块"
 description: "本模块实现与 Max-Forwards 头域相关的所有操作，例如添加该头域（若不存在），或对已存在的头域递减并检查其值。"
-sidebar: false
 ---
 
 

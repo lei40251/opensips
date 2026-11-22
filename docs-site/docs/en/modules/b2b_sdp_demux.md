@@ -1,7 +1,6 @@
 ---
 title: "B2B SDP De-Multiplexer Module"
 description: "This module provides the logic to convert a multi-stream SDP call, to multiple calls, each containing a subset of streams from the initial call."
-sidebar: false
 ---
 
 

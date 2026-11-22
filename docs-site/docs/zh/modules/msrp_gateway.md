@@ -1,7 +1,6 @@
 ---
 title: "MSRP 网关模块"
 description: "本模块实现一个网关，用于在页面模式（SIP MESSAGE 方法）与会话模式（MSRP）即时消息之间进行转换。"
-sidebar: false
 ---
 
 

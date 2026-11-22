@@ -1,7 +1,6 @@
 ---
 title: "msrp_ua 模块"
 description: "该模块实现了一个用户代理，能够使用 MSRP（RFC 4976）协议建立消息会话。"
-sidebar: false
 ---
 
 

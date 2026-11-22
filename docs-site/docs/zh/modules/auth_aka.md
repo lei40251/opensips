@@ -1,7 +1,6 @@
 ---
 title: "auth_aka 模块"
 description: "本模块包含使用 AKA（Authentication and Key Agreement）安全协议执行摘要鉴权的函数。该机制用于 IMS 网络，在 UE（设备）与 3G/4G/5G 网络之间提供双向鉴权。"
-sidebar: false
 ---
 
 

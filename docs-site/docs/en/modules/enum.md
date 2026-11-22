@@ -1,7 +1,6 @@
 ---
 title: "Enum Module"
 description: "Enum module implements [i_]enum_query functions that make an enum query based on the user part of the current Request-URI."
-sidebar: false
 ---
 
 

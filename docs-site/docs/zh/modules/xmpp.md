@@ -1,7 +1,6 @@
 ---
 title: "xmpp 模块"
 description: "本模块是 OpenSIPS 与 jabber 服务器之间的网关，用于在 SIP 客户端与 XMPP（jabber）客户端之间交换即时消息。"
-sidebar: false
 ---
 
 

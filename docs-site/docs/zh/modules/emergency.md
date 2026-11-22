@@ -1,7 +1,6 @@
 ---
 title: "紧急呼叫模块 (emergency)"
 description: "紧急呼叫模块为 OpenSIPS 提供紧急呼叫处理能力，遵循美国机构 NENA 的 architecture i2 规范。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "presence_xml 模块"
 description: "本模块对使用 XML 消息体的 notify-subscribe 事件做专门处理。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

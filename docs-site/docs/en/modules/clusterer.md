@@ -1,7 +1,6 @@
 ---
 title: "CLUSTERER Module"
 description: "The clusterer module is used to organize multiple OpenSIPS instances into groups (clusters) in which the nodes can communicate with each other in order to replicate, share information or perform distributed tasks."
-sidebar: false
 ---
 
 

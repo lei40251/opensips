@@ -1,7 +1,6 @@
 ---
 title: "cachedb_redis Module"
 description: "This module is an implementation of a cache system designed to work with a Redis server."
-sidebar: false
 ---
 
 

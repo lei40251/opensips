@@ -1,7 +1,6 @@
 ---
 title: "SNMPStats Module"
 description: "The SNMPStats module provides an SNMP management interface to OpenSIPS."
-sidebar: false
 ---
 
 

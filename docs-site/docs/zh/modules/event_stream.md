@@ -1,7 +1,6 @@
 ---
 title: "event_stream 模块"
 description: "本模块为 Event 接口提供了一套 TCP 传输层实现。"
-sidebar: false
 ---
 
 

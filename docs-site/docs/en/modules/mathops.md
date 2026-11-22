@@ -1,7 +1,6 @@
 ---
 title: "mathops Module"
 description: "The mathops module provides a series of functions which enable various floating point operations at OpenSIPS script level."
-sidebar: false
 ---
 
 

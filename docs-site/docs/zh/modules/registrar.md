@@ -1,7 +1,6 @@
 ---
 title: "registrar 模块"
 description: "本模块包含按 RFC 3261 处理 SIP REGISTER 请求的逻辑。"
-sidebar: false
 ---
 
 

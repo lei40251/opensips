@@ -1,7 +1,6 @@
 ---
 title: "STUN 模块 (stun)"
 description: "本模块在 OpenSIPS 内部实现 STUN 服务器，使其与 SIP 共用端口，以便为位于 NAT 之后的客户端提供准确的外部地址信息。"
-sidebar: false
 ---
 
 

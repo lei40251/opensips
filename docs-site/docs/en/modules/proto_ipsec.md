@@ -1,7 +1,6 @@
 ---
 title: "proto_ipsec Module"
 description: "The **proto_ipsec** module provides IPSec sockets for establishing secure communication channels."
-sidebar: false
 ---
 
 

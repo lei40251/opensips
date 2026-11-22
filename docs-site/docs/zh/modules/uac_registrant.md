@@ -1,7 +1,6 @@
 ---
 title: "uac_registrant 模块"
 description: "该模块使 OpenSIPS 能够在远端 SIP 注册服务器上注册自身。"
-sidebar: false
 ---
 
 

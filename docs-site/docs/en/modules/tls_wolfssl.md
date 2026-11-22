@@ -1,7 +1,6 @@
 ---
 title: "tls_wolfssl Module"
 description: "This module implements TLS operations using the [wolfSSL](https://www.wolfssl.com/) libarary."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "mi_html 模块"
 description: "本模块为 OpenSIPS 的管理接口提供一个最简化的 Web 用户界面。"
-sidebar: false
 ---
 
 

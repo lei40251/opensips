@@ -1,7 +1,6 @@
 ---
 title: "cachedb_memcached 模块"
 description: "该模块是一个缓存系统的实现，设计用于配合 memcached 服务器工作。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "acc 模块"
 description: "ACC 模块用于将事务信息计费到 syslog、SQL、AAA 等不同后端。"
-sidebar: false
 ---
 
 

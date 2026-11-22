@@ -1,7 +1,6 @@
 ---
 title: "cachedb_local 模块"
 description: "该模块是一个本地缓存系统的实现，以哈希表的形式设计。"
-sidebar: false
 ---
 
 

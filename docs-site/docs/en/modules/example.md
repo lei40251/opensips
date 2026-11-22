@@ -1,7 +1,6 @@
 ---
 title: "Example Module"
 description: "This module serves as an example of how to write a module in OpenSIPS."
-sidebar: false
 ---
 
 

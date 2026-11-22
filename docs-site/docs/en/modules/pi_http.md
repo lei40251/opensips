@@ -1,7 +1,6 @@
 ---
 title: "pi_http Module"
 description: "This module provides an HTTP provisioning interface for OpenSIPS."
-sidebar: false
 ---
 
 

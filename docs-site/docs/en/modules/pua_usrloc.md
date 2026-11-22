@@ -1,7 +1,6 @@
 ---
 title: "PUA Usrloc"
 description: "The pua_usrloc is the connector between usrloc and pua modules."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "XCAP_Client Module"
 description: "The modules is an XCAP client for OpenSIPS that can be used by other modules."
-sidebar: false
 ---
 
 

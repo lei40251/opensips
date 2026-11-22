@@ -1,7 +1,6 @@
 ---
 title: "mi_http 模块"
 description: "本模块为 OpenSIPS 的管理接口提供 HTTP 传输层实现。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

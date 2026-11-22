@@ -1,7 +1,6 @@
 ---
 title: "XCAP 模块"
 description: "本模块包含所有使用 XCAP 能力的模块共用的若干参数和函数。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

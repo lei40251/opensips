@@ -1,7 +1,6 @@
 ---
 title: "tm Module"
 description: "TM module enables stateful processing of SIP transactions."
-sidebar: false
 ---
 
 

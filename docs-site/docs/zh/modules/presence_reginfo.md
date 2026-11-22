@@ -1,7 +1,6 @@
 ---
 title: "presence_reginfo 模块"
 description: "该模块使 presence 模块内部能够处理 \"Event: reg\"（定义于 RFC 3680）。"
-sidebar: false
 ---
 
 

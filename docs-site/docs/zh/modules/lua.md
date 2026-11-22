@@ -1,7 +1,6 @@
 ---
 title: "lua 模块"
 description: "编写新的 OpenSIPS 模块所需的时间相当长，而配置文件提供的选项仅限于各模块已实现的功能，借助本 Lua 模块可在 Lua 中轻松实现自己的 OpenSIPS 扩展。"
-sidebar: false
 ---
 
 

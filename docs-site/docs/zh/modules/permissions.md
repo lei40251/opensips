@@ -1,7 +1,6 @@
 ---
 title: "permissions 模块"
 description: "本模块依据纯文本规则文件判断呼叫路由、注册、URI 与地址是否具备相应权限。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Prometheus Module"
 description: "This module provides a HTTP interface for the [Prometheus](https://prometheus.io/) monitoring system, allowing it to fetch different statistics from OpenSIPS."
-sidebar: false
 ---
 
 

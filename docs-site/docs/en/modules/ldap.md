@@ -1,7 +1,6 @@
 ---
 title: "LDAP Module"
 description: "The LDAP module implements an LDAP search interface for OpenSIPS."
-sidebar: false
 ---
 
 

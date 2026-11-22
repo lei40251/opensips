@@ -1,7 +1,6 @@
 ---
 title: "PUA MI"
 description: "The pua_mi offers the possibility to publish presence information and subscribe to presence information via MI transports."
-sidebar: false
 ---
 
 

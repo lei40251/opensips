@@ -1,7 +1,6 @@
 ---
 title: "event_sqs Module"
 description: "The event_sqs module is an implementation of an Amazon SQS producer."
-sidebar: false
 ---
 
 

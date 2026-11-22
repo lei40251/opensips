@@ -1,7 +1,6 @@
 ---
 title: "AUTH_JWT Module"
 description: "The module implements authentication over JSON Web Tokens."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "mqueue Module"
 description: "The mqueue module offers a generic message queue system in shared memory for inter-process communication using the config file."
-sidebar: false
 ---
 
 

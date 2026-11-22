@@ -1,7 +1,6 @@
 ---
 title: "speeddial 模块"
 description: "本模块提供服务器端的缩位拨号功能。"
-sidebar: false
 ---
 
 

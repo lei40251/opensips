@@ -1,7 +1,6 @@
 ---
 title: "Presence_XCAPDiff Module"
 description: "The presence_xcapdiff is an OpenSIPS module that adds support for the \"xcap-diff\" event to presence and pua."
-sidebar: false
 ---
 
 

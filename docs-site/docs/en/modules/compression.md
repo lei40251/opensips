@@ -1,7 +1,6 @@
 ---
 title: "compression Module"
 description: "This module implements message compression/decompression and base64 encoding for sip messages using deflate and gzip algorithm/headers."
-sidebar: false
 ---
 
 

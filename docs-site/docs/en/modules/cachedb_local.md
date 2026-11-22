@@ -1,7 +1,6 @@
 ---
 title: "cachedb_local Module"
 description: "This module is an implementation of a local cache system designed as a hash table."
-sidebar: false
 ---
 
 

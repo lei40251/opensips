@@ -1,7 +1,6 @@
 ---
 title: "call_control 模块"
 description: "本模块可用于限制呼叫时长，并在呼叫超出所设限制时自动结束呼叫。"
-sidebar: false
 ---
 
 

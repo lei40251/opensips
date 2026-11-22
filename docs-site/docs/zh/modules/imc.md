@@ -1,7 +1,6 @@
 ---
 title: "imc 模块"
 description: "本模块提供即时消息会议支持。"
-sidebar: false
 ---
 
 

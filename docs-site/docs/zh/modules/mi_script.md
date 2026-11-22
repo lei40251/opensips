@@ -1,7 +1,6 @@
 ---
 title: "mi_script 模块"
 description: "本模块提供多种钩子，可直接从 OpenSIPS 脚本运行管理接口命令。"
-sidebar: false
 ---
 
 

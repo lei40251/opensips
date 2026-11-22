@@ -1,7 +1,6 @@
 ---
 title: "SIP 会话定时器模块"
 description: "sst 模块提供了一种依据 SIP INVITE/200 OK 中 Session-Expires 头域值来更新对话过期定时器的方式。"
-sidebar: false
 ---
 
 

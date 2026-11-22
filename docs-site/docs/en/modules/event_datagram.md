@@ -1,7 +1,6 @@
 ---
 title: "event_datagram Module"
 description: "This is a module which provides a UNIX/UDP SOCKET transport layer implementation for the Event Interface."
-sidebar: false
 ---
 
 

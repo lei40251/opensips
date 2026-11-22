@@ -1,7 +1,6 @@
 ---
 title: "Call Control Module"
 description: "This module allows one to limit the duration of calls and automatically end them when they exceed the imposed limit."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "MSRP Gateway Module"
 description: "This module implements a Gateway for translating between Page Mode (SIP MESSAGE method) and Session Mode (MSRP) Instant Messaging."
-sidebar: false
 ---
 
 

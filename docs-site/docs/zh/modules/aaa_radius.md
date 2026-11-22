@@ -1,7 +1,6 @@
 ---
 title: "AAA RADIUS 模块"
 description: "该模块为来自核心的 AAA API 提供了一个 Radius 实现。"
-sidebar: false
 ---
 
 

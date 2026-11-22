@@ -1,7 +1,6 @@
 ---
 title: "gflags Module"
 description: "gflags module (global flags) keeps a bitmap of flags in shared memory and may be used to change behaviour of server based on value of the flags."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "AAA_DIAMETER 模块"
 description: "本模块提供 RFC 6733 Diameter 对等端实现，既能充当 Diameter 客户端，也能充当服务器，或两者兼具。"
-sidebar: false
 ---
 
 

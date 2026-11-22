@@ -1,7 +1,6 @@
 ---
 title: "rest_client 模块"
 description: "*rest_client* 模块提供了一种与 HTTP 服务器交互的手段，即执行 RESTful 查询，如 GET、POST 和 PUT。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "cgrates 模块"
 description: "[CGRateS](http://www.cgrates.org/) 是一款开源计费引擎，用于运营商级、多租户的实时计费。本模块用于与 CGRateS 引擎通信，以实现呼叫鉴权与计费。"
-sidebar: false
 ---
 
 

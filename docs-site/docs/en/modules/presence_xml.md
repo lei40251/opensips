@@ -1,7 +1,6 @@
 ---
 title: "Presence_XML Module"
 description: "The module does specific handling for notify-subscribe events using xml bodies."
-sidebar: false
 ---
 
 

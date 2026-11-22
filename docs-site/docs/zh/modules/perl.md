@@ -1,7 +1,6 @@
 ---
 title: "perl 模块"
 description: "编写一个新的 OpenSIPS 模块所需的时间往往相当长，而配置文件提供的选项仅限于各模块已实现的功能。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

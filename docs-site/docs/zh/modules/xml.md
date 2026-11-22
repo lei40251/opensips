@@ -1,7 +1,6 @@
 ---
 title: "XML 模块"
 description: "本模块导出一个脚本变量，提供对 XML 文档或 XML 数据块的基本解析与操作能力。"
-sidebar: false
 ---
 
 

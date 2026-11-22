@@ -1,7 +1,6 @@
 ---
 title: "Identity 模块"
 description: "本模块增加对 SIP Identity 的支持（见 RFC 4474）。"
-sidebar: false
 ---
 
 

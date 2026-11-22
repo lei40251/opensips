@@ -1,7 +1,6 @@
 ---
 title: "dialplan 模块"
 description: "该模块基于匹配与替换规则实现通用的字符串转换。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

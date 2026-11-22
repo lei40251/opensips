@@ -1,7 +1,6 @@
 ---
 title: "Script Helper 模块"
 description: "**Script Helper 模块**的用途是在 OpenSIPS 中处理基本场景时简化脚本编写过程。"
-sidebar: false
 ---
 
 

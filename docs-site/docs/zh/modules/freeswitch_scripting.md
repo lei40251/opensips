@@ -1,7 +1,6 @@
 ---
 title: "freeswitch_scripting 模块"
 description: "freeswitch_scripting 是一个辅助模块，它向 OpenSIPS 脚本暴露对 FreeSWITCH ESL 接口的完整控制能力。"
-sidebar: false
 ---
 
 

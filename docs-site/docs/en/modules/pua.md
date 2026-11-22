@@ -1,7 +1,6 @@
 ---
 title: "Presence User Agent Module"
 description: "This module offer the internal support for OpenSIPS to act as a Presence User Agent client, by sending Subscribe and Publish messages."
-sidebar: false
 ---
 
 

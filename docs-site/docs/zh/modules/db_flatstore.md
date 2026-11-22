@@ -1,7 +1,6 @@
 ---
 title: "DB_FLATSTORE 模块"
 description: "Flatstore 是所谓的 OpenSIPS 数据库模块之一。它不导出任何可从配置脚本执行的函数，而是导出数据库 API 的一个子集，因此其他模块可以用它替代例如 mysql 模块。"
-sidebar: false
 ---
 
 

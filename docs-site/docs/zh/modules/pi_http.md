@@ -1,7 +1,6 @@
 ---
 title: "pi_http 模块"
 description: "本模块为 OpenSIPS 提供 HTTP 数据配置接口。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

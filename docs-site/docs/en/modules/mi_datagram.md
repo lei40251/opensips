@@ -1,7 +1,6 @@
 ---
 title: "mi_datagram Module"
 description: "This is a module which provides a UNIX/UDP SOCKET transport layer implementation for the Management Interface."
-sidebar: false
 ---
 
 

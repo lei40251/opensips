@@ -1,7 +1,6 @@
 ---
 title: "mi_html Module"
 description: "This module provides a minimal web user interface for the OpenSIPS's Management Interface."
-sidebar: false
 ---
 
 

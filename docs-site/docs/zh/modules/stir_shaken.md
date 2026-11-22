@@ -1,7 +1,6 @@
 ---
 title: "STIR/SHAKEN 模块"
 description: "该模块为在 OpenSIPS 中实现 STIR/SHAKEN（RFC 8224、RFC 8588）鉴权与验证服务提供支持。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

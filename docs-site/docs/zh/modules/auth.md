@@ -1,7 +1,6 @@
 ---
 title: "auth 模块"
 description: "本模块提供其他鉴权相关模块共同需要的通用函数，也可从伪变量中取出用户名与密码来执行鉴权。"
-sidebar: false
 ---
 
 

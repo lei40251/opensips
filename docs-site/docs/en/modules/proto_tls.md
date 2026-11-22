@@ -1,7 +1,6 @@
 ---
 title: "proto_tls module"
 description: "TLS, as defined in SIP RFC 3261, is a mandatory feature for proxies and can be used to secure the SIP signalling on a hop-by-hop basis (not end-to-end)."
-sidebar: false
 ---
 
 

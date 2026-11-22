@@ -1,7 +1,6 @@
 ---
 title: "事件（基于）路由模块 (event_routing)"
 description: "事件（基于）路由模块，简称 EBR 模块，提供一种机制，使脚本中不同的 SIP 处理能够通过 OpenSIPS 事件相互通信与同步。"
-sidebar: false
 ---
 
 

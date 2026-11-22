@@ -1,7 +1,6 @@
 ---
 title: "ratelimit Module"
 description: "This module implements rate limiting for SIP requests."
-sidebar: false
 ---
 
 

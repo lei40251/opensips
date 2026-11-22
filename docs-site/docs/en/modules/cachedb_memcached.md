@@ -1,7 +1,6 @@
 ---
 title: "cachedb_memcached Module"
 description: "This module is an implementation of a cache system designed to work with a memcached server."
-sidebar: false
 ---
 
 

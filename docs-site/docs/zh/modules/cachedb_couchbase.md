@@ -1,7 +1,6 @@
 ---
 title: "cachedb_couchbase 模块"
 description: "本模块是一种缓存系统的实现，用于与 Couchbase 服务器配合工作。"
-sidebar: false
 ---
 
 

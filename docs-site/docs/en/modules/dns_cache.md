@@ -1,7 +1,6 @@
 ---
 title: "dns_cache Module"
 description: "This module is an implementation of a cache system designed for DNS records."
-sidebar: false
 ---
 
 

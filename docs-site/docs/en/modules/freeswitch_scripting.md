@@ -1,7 +1,6 @@
 ---
 title: "freeswitch_scripting  Module"
 description: "freeswitch_scripting is a helper module that exposes full control over the FreeSWITCH ESL interface to the OpenSIPS script."
-sidebar: false
 ---
 
 

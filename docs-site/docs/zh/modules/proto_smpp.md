@@ -1,7 +1,6 @@
 ---
 title: "proto_smpp 模块"
 description: "该模块提供 SIP 与 SMPP（Short Message Peer-to-Peer）协议之间的互通能力。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

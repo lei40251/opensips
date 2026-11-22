@@ -1,7 +1,6 @@
 ---
 title: "nat_traversal 模块"
 description: "nat_traversal 模块为 SIP 信令提供远端 NAT 穿透处理支持。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

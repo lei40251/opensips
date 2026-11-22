@@ -1,7 +1,6 @@
 ---
 title: "exec Module"
 description: "The Exec module enables the execution of external commands from the OpenSIPS script."
-sidebar: false
 ---
 
 

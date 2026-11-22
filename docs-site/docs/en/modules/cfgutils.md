@@ -1,7 +1,6 @@
 ---
 title: "cfgutils Module"
 description: "Useful extensions for the server configuration."
-sidebar: false
 ---
 
 

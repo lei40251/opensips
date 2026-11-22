@@ -1,7 +1,6 @@
 ---
 title: "sip_i 模块"
 description: "本模块提供处理封装在 SIP 中的 ISDN 用户部分（ISUP）消息的能力。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

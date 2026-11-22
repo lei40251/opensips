@@ -1,7 +1,6 @@
 ---
 title: "proto_bins 模块"
 description: "本模块实现了一种基于 TLS 的安全二进制通信协议，供 clusterer 模块提供的 OpenSIPS 集群引擎使用。"
-sidebar: false
 ---
 
 

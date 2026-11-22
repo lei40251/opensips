@@ -1,7 +1,6 @@
 ---
 title: "DB_POSTGRES Module"
 description: "Module description"
-sidebar: false
 ---
 
 

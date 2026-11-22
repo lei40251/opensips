@@ -1,7 +1,6 @@
 ---
 title: "presence_xcapdiff 模块"
 description: "presence_xcapdiff 是为 presence 与 pua 增加 \"xcap-diff\" 事件支持的 OpenSIPS 模块。"
-sidebar: false
 ---
 
 

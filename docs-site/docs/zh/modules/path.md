@@ -1,7 +1,6 @@
 ---
 title: "path 模块"
 description: "本模块设计用于中间 SIP 代理，例如位于注册服务器和代理之前的负载均衡器。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

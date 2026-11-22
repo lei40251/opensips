@@ -1,7 +1,6 @@
 ---
 title: "snmpstats 模块"
 description: "SNMPStats 模块为 OpenSIPS 提供 SNMP 管理接口。"
-sidebar: false
 ---
 
 

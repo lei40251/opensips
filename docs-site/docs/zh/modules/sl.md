@@ -1,7 +1,6 @@
 ---
 title: "sl 模块"
 description: "SL 模块使 OpenSIPS 能够充当无状态 UA 服务器，在不保留状态的情况下为 SIP 请求生成应答。"
-sidebar: false
 ---
 
 

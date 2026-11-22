@@ -1,7 +1,6 @@
 ---
 title: "userblacklist Module"
 description: "The userblacklist module allows OpenSIPS to handle blacklists on a per user basis."
-sidebar: false
 ---
 
 

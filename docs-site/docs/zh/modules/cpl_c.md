@@ -1,7 +1,6 @@
 ---
 title: "cpl_c 模块"
 description: "cpl_c 模块实现了一个 CPL（Call Processing Language，呼叫处理语言）解释器。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

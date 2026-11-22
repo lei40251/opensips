@@ -1,7 +1,6 @@
 ---
 title: "dialplan Module"
 description: "This module implements generic string translations based on matching and replacement rules."
-sidebar: false
 ---
 
 

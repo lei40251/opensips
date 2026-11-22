@@ -1,7 +1,6 @@
 ---
 title: "Auth_aaa Module"
 description: "This module contains functions that are used to perform digest authentication and some URI checks against an AAA server."
-sidebar: false
 ---
 
 

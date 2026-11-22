@@ -1,7 +1,6 @@
 ---
 title: "compression 模块"
 description: "本模块使用 deflate 与 gzip 算法/头域，实现 SIP 消息的压缩/解压与 base64 编码。"
-sidebar: false
 ---
 
 

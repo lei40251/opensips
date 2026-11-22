@@ -1,7 +1,6 @@
 ---
 title: "event_kafka Module"
 description: "This module is an implementation of an [Apache Kafka](https://kafka.apache.org/) producer."
-sidebar: false
 ---
 
 

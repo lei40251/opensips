@@ -1,7 +1,6 @@
 ---
 title: "TLS_MGM module"
 description: "This module is a management module for TLS certificates and parameters."
-sidebar: false
 ---
 
 

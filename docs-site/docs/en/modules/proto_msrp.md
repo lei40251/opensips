@@ -1,7 +1,6 @@
 ---
 title: "proto_msrp Module"
 description: "The **proto_msrp** module provides the MSRP protocol stack, meaning the network read/wite (plain and TLS), message parsing and assembling, transactional layer and the basic signalling operations."
-sidebar: false
 ---
 
 

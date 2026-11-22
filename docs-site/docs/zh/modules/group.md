@@ -1,7 +1,6 @@
 ---
 title: "group 模块"
 description: "本模块提供多种组成员关系检查方法的功能。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

@@ -1,7 +1,6 @@
 ---
 title: "呈现用户代理模块"
 description: "该模块为 OpenSIPS 充当呈现用户代理客户端提供内部支持，通过发送 Subscribe 和 Publish 消息实现。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

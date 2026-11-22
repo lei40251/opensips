@@ -1,7 +1,6 @@
 ---
 title: "domain 模块"
 description: "Domain 模块实现了基于 domain 表的检查，用于判定 URI 的主机部分是否为本地域。"
-sidebar: false
 ---
 
 

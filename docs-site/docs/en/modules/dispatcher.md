@@ -1,7 +1,6 @@
 ---
 title: "dispatcher Module"
 description: "This modules implements a dispatcher for destination addresses."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Domain Policy Module"
 description: "The Domain Policy module implements draft-lendl-domain-policy-ddds-02 in combination with draft-lendl-speermint-federations-02 and draft-lendl-speermint-technical-policy-00."
-sidebar: false
 ---
 
 

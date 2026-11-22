@@ -1,7 +1,6 @@
 ---
 title: "textops 模块"
 description: "该模块对 OpenSIPS 所处理的 SIP 消息实现基于文本的操作。"
-sidebar: false
 ---
 
 

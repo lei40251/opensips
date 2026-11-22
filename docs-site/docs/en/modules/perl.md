@@ -1,7 +1,6 @@
 ---
 title: "perl Module"
 description: "The time needed when writing a new OpenSIPS module unfortunately is quite high, while the options provided by the configuration file are limited to the features implemented in the modules."
-sidebar: false
 ---
 
 

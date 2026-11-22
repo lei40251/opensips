@@ -1,7 +1,6 @@
 ---
 title: "db_unixodbc 模块"
 description: "本模块允许在 OpenSIPS 中使用 unixodbc 包。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Statistics Module"
 description: "The Statistics module is a wrapper over the internal statistics manager, allowing the script writer to dynamically define and use of statistic variables."
-sidebar: false
 ---
 
 

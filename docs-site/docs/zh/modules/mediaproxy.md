@@ -1,7 +1,6 @@
 ---
 title: "mediaproxy 模块"
 description: "mediaproxy 是一个 OpenSIPS 模块，旨在为大多数现有 SIP 客户端实现自动 NAT 穿透。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

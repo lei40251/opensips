@@ -1,7 +1,6 @@
 ---
 title: "Event (based) Routing Module"
 description: "The Event (based) Routing module, or shortly the EBR module, provides a mechanism that allows different SIP processings (of messages in script) to communicate and synchronize between through OpenSIPS Events."
-sidebar: false
 ---
 
 

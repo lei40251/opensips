@@ -1,7 +1,6 @@
 ---
 title: "DB_HTTP 模块"
 description: "本模块提供对一个以 HTTP 服务器形式实现的数据库的访问，可用于穿越防火墙存在困难或需要数据加密的特殊场景。"
-sidebar: false
 ---
 
 

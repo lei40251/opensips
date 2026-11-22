@@ -1,7 +1,6 @@
 ---
 title: "B2B_ENTITIES"
 description: "This module implements the basic functions of a UAS and UAC needed by the B2BUA implementation of OpenSIPS."
-sidebar: false
 ---
 
 

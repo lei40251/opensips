@@ -1,7 +1,6 @@
 ---
 title: "UAC Registrant Module"
 description: "The module enable OpenSIPS to register itself on a remote SIP registrar."
-sidebar: false
 ---
 
 

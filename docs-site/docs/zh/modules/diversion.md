@@ -1,7 +1,6 @@
 ---
 title: "diversion 模块"
 description: "本模块按照 draft-levy-sip-diversion-08 实现 Diversion 扩展。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

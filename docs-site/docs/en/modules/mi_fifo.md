@@ -1,7 +1,6 @@
 ---
 title: "mi_fifo Module"
 description: "This is a module which provides a FIFO transport layer implementation for Management Interface."
-sidebar: false
 ---
 
 

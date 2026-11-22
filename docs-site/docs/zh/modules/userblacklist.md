@@ -1,7 +1,6 @@
 ---
 title: "userblacklist 模块"
 description: "userblacklist 模块允许 OpenSIPS 按用户维护黑名单，并将数据存于数据库表中，通过查询判断请求 URI 的用户是否被列入黑名单。"
-sidebar: false
 ---
 
 

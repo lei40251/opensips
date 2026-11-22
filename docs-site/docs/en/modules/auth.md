@@ -1,7 +1,6 @@
 ---
 title: "Auth Module"
 description: "This is a module that provides common functions that are needed by other authentication related modules."
-sidebar: false
 ---
 
 

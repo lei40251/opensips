@@ -1,7 +1,6 @@
 ---
 title: "usrloc Module"
 description: "A SIP user location implementation."
-sidebar: false
 ---
 
 

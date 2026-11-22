@@ -1,7 +1,6 @@
 ---
 title: "Mediaproxy Module"
 description: "Mediaproxy is an OpenSIPS module that is designed to allow automatic NAT traversal for the majority of existing SIP clients."
-sidebar: false
 ---
 
 

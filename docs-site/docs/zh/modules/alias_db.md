@@ -1,7 +1,6 @@
 ---
 title: "ALIAS_DB 模块"
 description: "ALIAS_DB 模块可作为通过 usrloc 实现用户别名的替代方案。其主要特点是不像用户位置那样存储所有相关数据，而是始终使用数据库进行查询（无内存缓存）。"
-sidebar: false
 ---
 
 

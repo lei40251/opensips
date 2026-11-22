@@ -1,7 +1,6 @@
 ---
 title: "signaling Module"
 description: "The SIGNALING module comes as a wrapper over tm and sl modules and offers one function to be called by the modules that want to send a reply."
-sidebar: false
 ---
 
 

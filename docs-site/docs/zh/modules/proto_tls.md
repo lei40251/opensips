@@ -1,7 +1,6 @@
 ---
 title: "proto_tls 模块"
 description: "SIP RFC 3261 中定义的 TLS 是代理的必备特性，可用于以逐跳（而非端到端）方式保护 SIP 信令。"
-sidebar: false
 ---
 
 

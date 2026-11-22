@@ -1,7 +1,6 @@
 ---
 title: "event_virtual 模块"
 description: "event_virtual 模块允许使用不同传输协议的多个外部应用，作为单个虚拟订阅者订阅 OpenSIPS 事件接口上的特定事件。"
-sidebar: false
 ---
 
 

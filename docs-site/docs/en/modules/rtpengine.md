@@ -1,7 +1,6 @@
 ---
 title: "rtpengine Module"
 description: "This is a module that enables media streams to be proxied via an RTP proxy."
-sidebar: false
 ---
 
 

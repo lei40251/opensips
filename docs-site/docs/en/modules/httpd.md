@@ -1,7 +1,6 @@
 ---
 title: "httpd Module"
 description: "This module provides an HTTP transport layer for OpenSIPS."
-sidebar: false
 ---
 
 

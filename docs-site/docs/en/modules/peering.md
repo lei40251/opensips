@@ -1,7 +1,6 @@
 ---
 title: "Peering Module"
 description: "Peering module allows SIP providers (operators or organizations) to verify from a broker if source or destination of a SIP request is a trusted peer."
-sidebar: false
 ---
 
 

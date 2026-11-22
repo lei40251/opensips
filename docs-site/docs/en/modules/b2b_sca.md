@@ -1,7 +1,6 @@
 ---
 title: "b2b_sca Module"
 description: "This module provides core SCA (Shared Call Appearance) functionality for OpenSIPS. It is designed to work in tandem with the presence_callinfo module."
-sidebar: false
 ---
 
 

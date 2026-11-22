@@ -1,7 +1,6 @@
 ---
 title: "pua_xmpp 模块"
 description: "本模块是 SIP 与 XMPP 之间呈现信息的网关。"
-sidebar: false
 ---
 
 

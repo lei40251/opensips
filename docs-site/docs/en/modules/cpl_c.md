@@ -1,7 +1,6 @@
 ---
 title: "cpl_c Module"
 description: "cpl_c modules implements a CPL (Call Processing Language) interpreter."
-sidebar: false
 ---
 
 

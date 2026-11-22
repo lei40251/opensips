@@ -1,7 +1,6 @@
 ---
 title: "sngtc 模块"
 description: "**Sangoma 转码模块**可以用 [Sangoma 制造的 D 系列转码卡](https://wiki.sangoma.com/display/MTC/Media+Transcoding) 执行语音转码。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

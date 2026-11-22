@@ -1,7 +1,6 @@
 ---
 title: "Identity Module"
 description: "This module adds support for SIP Identity (see RFC 4474)."
-sidebar: false
 ---
 
 

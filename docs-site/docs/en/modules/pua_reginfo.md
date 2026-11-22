@@ -1,7 +1,6 @@
 ---
 title: "PUA reginfo Module"
 description: "This module publishes information about \"reg\"-events according to to RFC 3680."
-sidebar: false
 ---
 
 

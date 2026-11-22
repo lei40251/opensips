@@ -1,7 +1,6 @@
 ---
 title: "mangler Module"
 description: "This is a module to help with SDP mangling."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "mqueue 模块"
 description: "mqueue 模块提供了一套通用的共享内存消息队列系统，通过配置文件实现进程间通信。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

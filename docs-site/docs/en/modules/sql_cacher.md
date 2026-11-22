@@ -1,7 +1,6 @@
 ---
 title: "SQL Cacher Module"
 description: "The sql_cacher module introduces the possibility to cache data from a SQL-based database (using different OpenSIPS modules which implement the DB API) into a cache system implemented in OpenSIPS through the CacheDB Interface."
-sidebar: false
 ---
 
 

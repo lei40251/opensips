@@ -1,7 +1,6 @@
 ---
 title: "mmgeoip 模块"
 description: "本模块是 MaxMind GeoIP API 的轻量封装。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

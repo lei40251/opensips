@@ -1,7 +1,6 @@
 ---
 title: "rr Module"
 description: "The module contains record routing logic"
-sidebar: false
 ---
 
 

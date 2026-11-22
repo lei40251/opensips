@@ -1,7 +1,6 @@
 ---
 title: "Presence_CallInfo 模块"
 description: "本模块为 OpenSIPS 提供共享呼叫外观（SCA）支持，该机制由 BroadWorks SIP Access Side Extensions Interface 规范定义。"
-sidebar: false
 ---
 
 

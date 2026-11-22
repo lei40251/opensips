@@ -1,7 +1,6 @@
 ---
 title: "xmpp Module"
 description: "This modules is a gateway between OpenSIPS and a jabber server."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "config 模块"
 description: "*config* 模块通过在启动时从持久化存储加载 OpenSIPS 参数，并通过 $config(name) 伪变量将其暴露到脚本层，从而实现参数的动态、运行时配置。"
-sidebar: false
 ---
 
 

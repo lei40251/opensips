@@ -1,7 +1,6 @@
 ---
 title: "Emergency Call Module"
 description: "The emergency module provides emergency call treatment for OpenSIPS, following the architecture i2 specification of the American entity NENA."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Media Exchange Module"
 description: "This module provides the means to exchange media SDP between different SIP proxied calls, and calls started or received from a Media Server."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "proto_hep 模块"
 description: "**proto_hep** 模块是一个传输模块，实现了基于 UDP 的 hepV1 和 hepV2 通信以及基于 TCP 的 hepV3 通信。"
-sidebar: false
 ---
 
 

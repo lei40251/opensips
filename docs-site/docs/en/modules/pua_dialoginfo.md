@@ -1,7 +1,6 @@
 ---
 title: "PUA dialoginfo module"
 description: "The pua_dialoginfo retrieves dialog state information from the dialog module and PUBLISHes the dialog-information using the pua module."
-sidebar: false
 ---
 
 

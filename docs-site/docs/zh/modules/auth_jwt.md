@@ -1,7 +1,6 @@
 ---
 title: "AUTH_JWT 模块"
 description: "本模块基于 JSON Web Tokens 实现鉴权。"
-sidebar: false
 ---
 
 

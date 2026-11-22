@@ -1,6 +1,5 @@
 ---
 title: "permissions Module"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "dispatcher 模块"
 description: "该模块为目的地地址实现了调度器。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

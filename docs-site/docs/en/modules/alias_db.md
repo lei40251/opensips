@@ -1,7 +1,6 @@
 ---
 title: "ALIAS_DB Module"
 description: "ALIAS_DB module can be used as an alternative for user aliases via usrloc. The main feature is that it does not store all adjacent data as for user location and always uses database for search (no memory caching)."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "call_center 模块"
 description: "Call Center 模块实现一个呼入型呼叫中心系统，包含用于对收到的呼叫进行排队的呼叫流程，以及用于接听呼叫的坐席。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

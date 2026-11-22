@@ -1,7 +1,6 @@
 ---
 title: "db_sqlite 模块"
 description: "本模块为 OpenSIPS 提供 SQLite 支持。它实现了 OpenSIPS 中定义的 DB API。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

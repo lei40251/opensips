@@ -1,7 +1,6 @@
 ---
 title: "rtp.io 模块"
 description: "rtp.io 模块提供在 OpenSIPS 内处理 RTP 流量的集成方案，可直接在 OpenSIPS 进程内部完成 RTP 中继与处理。"
-sidebar: false
 ---
 
 

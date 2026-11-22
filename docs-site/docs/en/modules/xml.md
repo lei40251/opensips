@@ -1,7 +1,6 @@
 ---
 title: "XML Module"
 description: "This module exposes a script variable that provides basic parsing and manipulation of XML documents or blocks of XML data."
-sidebar: false
 ---
 
 

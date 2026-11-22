@@ -1,7 +1,6 @@
 ---
 title: "pike 模块"
 description: "本模块提供一种简单的 DOS 防护机制——针对网络层洪泛的 DOS 攻击。"
-sidebar: false
 ---
 
 

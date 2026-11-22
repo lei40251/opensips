@@ -1,7 +1,6 @@
 ---
 title: "CGRateS Module"
 description: "[CGRateS](http://www.cgrates.org/) is an open-source rating engine used for carrier-grade, multi-tenant, real-time billing. This module can be used to communicate with the CGRates engine in order to do call authorization and accounting for billing purposes."
-sidebar: false
 ---
 
 

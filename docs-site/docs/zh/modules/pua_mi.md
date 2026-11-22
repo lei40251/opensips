@@ -1,7 +1,6 @@
 ---
 title: "pua_mi 模块"
 description: "pua_mi 提供通过 MI 传输通道发布呈现信息以及订阅呈现信息的能力。"
-sidebar: false
 ---
 
 

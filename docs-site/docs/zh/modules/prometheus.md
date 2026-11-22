@@ -1,7 +1,6 @@
 ---
 title: "Prometheus 模块"
 description: "本模块为 [Prometheus](https://prometheus.io/) 监控系统提供 HTTP 接口，使其能够从 OpenSIPS 获取各类统计。"
-sidebar: false
 ---
 
 

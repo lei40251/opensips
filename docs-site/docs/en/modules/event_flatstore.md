@@ -1,7 +1,6 @@
 ---
 title: "event_flatstore Module"
 description: "The *event_flatstore* module provides a logging facility for different events, triggered through the OpenSIPS Event Interface, directly from the OpenSIPS script."
-sidebar: false
 ---
 
 

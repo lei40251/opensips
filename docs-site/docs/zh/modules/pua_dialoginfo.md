@@ -1,7 +1,6 @@
 ---
 title: "pua_dialoginfo 模块"
 description: "pua_dialoginfo 从 dialog 模块获取对话状态信息，并通过 pua 模块发布（PUBLISH）对话信息。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

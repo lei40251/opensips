@@ -1,7 +1,6 @@
 ---
 title: "mi_http Module"
 description: "This module provides a HTTP transport layer implementation for OpenSIPS's Management Interface."
-sidebar: false
 ---
 
 

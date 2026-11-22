@@ -1,7 +1,6 @@
 ---
 title: "event_stream Module"
 description: "This module provides a TCP transport layer implementation for the Event Interface."
-sidebar: false
 ---
 
 

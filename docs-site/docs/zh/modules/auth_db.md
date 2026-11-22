@@ -1,7 +1,6 @@
 ---
 title: "auth_db 模块"
 description: "本模块包含所有需要访问数据库的鉴权相关函数。本模块应与 auth 模块一起使用，不能独立使用，因为它依赖于该模块。"
-sidebar: false
 ---
 
 

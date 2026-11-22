@@ -1,7 +1,6 @@
 ---
 title: "Load Balancer Module"
 description: "The Load-Balancer module comes to provide traffic routing based on load."
-sidebar: false
 ---
 
 

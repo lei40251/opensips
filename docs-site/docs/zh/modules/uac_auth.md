@@ -1,7 +1,6 @@
 ---
 title: "uac_auth 模块"
 description: "UAC AUTH（用户代理客户端鉴权）模块提供构建鉴权头域的通用 API。"
-sidebar: false
 ---
 
 

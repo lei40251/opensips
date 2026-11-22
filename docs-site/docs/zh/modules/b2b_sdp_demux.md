@@ -1,7 +1,6 @@
 ---
 title: "b2b_sdp_demux 模块"
 description: "本模块提供把多流 SDP 呼叫转换为多个呼叫的逻辑，每个新呼叫只包含初始呼叫中的一部分流。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "presence_dialoginfo Module"
 description: "The module enables the handling of \"Event: dialog\" (as defined in RFC 4235) inside of the presence module."
-sidebar: false
 ---
 
 

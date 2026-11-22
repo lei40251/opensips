@@ -1,7 +1,6 @@
 ---
 title: "AAA_DIAMETER MODULE"
 description: "This module provides an RFC 6733 Diameter peer implementation, being able to act as either Diameter client or server, or both."
-sidebar: false
 ---
 
 

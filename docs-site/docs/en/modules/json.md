@@ -1,7 +1,6 @@
 ---
 title: "JSON Module"
 description: "This module introduces a new type of variable that provides both serialization and de-serialization from JSON format."
-sidebar: false
 ---
 
 

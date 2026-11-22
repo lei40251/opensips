@@ -1,7 +1,6 @@
 ---
 title: "SpeedDial Module"
 description: "This module provides on-server speed dial facilities."
-sidebar: false
 ---
 
 

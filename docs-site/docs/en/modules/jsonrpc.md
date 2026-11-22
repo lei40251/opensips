@@ -1,7 +1,6 @@
 ---
 title: "JSON-RPC Module"
 description: "This module is an implementation of an JSON-RPC v2.0 client [http://www.jsonrpc.org/specification](http://www.jsonrpc.org/specification). that can send a call to a JSON-RPC server over a TCP connection."
-sidebar: false
 ---
 
 

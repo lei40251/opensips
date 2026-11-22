@@ -1,7 +1,6 @@
 ---
 title: "sipcapture 模块"
 description: "提供将入站/出站 SIP 消息存储到数据库的能力。"
-sidebar: false
 ---
 
 

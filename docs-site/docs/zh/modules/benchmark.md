@@ -1,7 +1,6 @@
 ---
 title: "benchmark 模块"
 description: "本模块帮助开发者对其模块函数进行基准测试。通过配置文件或 API 添加本模块的函数后，OpenSIPS 可以为每个函数记录性能分析信息。"
-sidebar: false
 ---
 
 

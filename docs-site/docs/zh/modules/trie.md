@@ -1,6 +1,5 @@
 ---
 title: "Trie 模块"
-sidebar: false
 ---
 
 

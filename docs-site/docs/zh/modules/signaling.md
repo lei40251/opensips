@@ -1,7 +1,6 @@
 ---
 title: "signaling 模块"
 description: "SIGNALING 模块是对 tm 与 sl 模块的封装，提供一个供希望发送应答的模块调用的函数。"
-sidebar: false
 ---
 
 

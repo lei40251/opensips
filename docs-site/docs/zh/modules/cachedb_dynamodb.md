@@ -1,7 +1,6 @@
 ---
 title: "cachedb_dynamodb 模块"
 description: "本模块是一个缓存系统（cachedb）的实现，设计用于配合 Amazon DynamoDB 工作。"
-sidebar: false
 ---
 
 

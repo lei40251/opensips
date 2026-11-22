@@ -1,7 +1,6 @@
 ---
 title: "nathelper Module"
 description: "This is a module to help with NAT traversal."
-sidebar: false
 ---
 
 

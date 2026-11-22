@@ -1,7 +1,6 @@
 ---
 title: "Status/Reports Module"
 description: "The Status/Report module is a wrapper over the internal status/report framework, allowing the script writer to dynamically define and use of SR groups."
-sidebar: false
 ---
 
 

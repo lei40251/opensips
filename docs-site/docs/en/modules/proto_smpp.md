@@ -1,7 +1,6 @@
 ---
 title: "proto_smpp module"
 description: "This module offers interoperability between SIP and SMPP (Short Message Peer-to-Peer) protocols."
-sidebar: false
 ---
 
 

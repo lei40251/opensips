@@ -1,7 +1,6 @@
 ---
 title: "mid_registrar 模块"
 description: "*mid_registrar* 是 SIP 平台的中间组件，设计用于在终端用户与平台的主注册组件之间工作。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

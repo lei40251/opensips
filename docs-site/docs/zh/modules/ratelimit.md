@@ -1,7 +1,6 @@
 ---
 title: "ratelimit 模块"
 description: "该模块为 SIP 请求实现速率限制。"
-sidebar: false
 ---
 
 

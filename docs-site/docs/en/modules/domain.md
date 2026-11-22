@@ -1,7 +1,6 @@
 ---
 title: "domain Module"
 description: "Domain module implements checks that based on domain table determine if a host part of an URI is local or not."
-sidebar: false
 ---
 
 

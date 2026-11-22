@@ -1,7 +1,6 @@
 ---
 title: "tls_mgm 模块"
 description: "本模块是用于 TLS 证书与参数的管理模块。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

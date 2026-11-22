@@ -1,7 +1,6 @@
 ---
 title: "cachedb_cassandra 模块"
 description: "本模块是面向 Cassandra 服务器的缓存系统实现，使用由核心导出的 Key-Value 接口。"
-sidebar: false
 ---
 
 

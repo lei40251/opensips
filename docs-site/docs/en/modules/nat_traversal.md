@@ -1,7 +1,6 @@
 ---
 title: "NAT Traversal Module"
 description: "The nat_traversal module provides support for handling far-end NAT traversal for SIP signaling."
-sidebar: false
 ---
 
 

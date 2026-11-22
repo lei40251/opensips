@@ -1,7 +1,6 @@
 ---
 title: "event_sqs 模块"
 description: "event_sqs 模块是 Amazon SQS 生产者的一种实现。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

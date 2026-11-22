@@ -1,7 +1,6 @@
 ---
 title: "MSRP Relay Module"
 description: "This modules implements a Relay for the MSRP protocol, according to the specifications of RFC 4976."
-sidebar: false
 ---
 
 

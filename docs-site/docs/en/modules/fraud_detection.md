@@ -1,7 +1,6 @@
 ---
 title: "Fraud Detection Module"
 description: "This module provides a way to prevent some basic fraud attacks."
-sidebar: false
 ---
 
 

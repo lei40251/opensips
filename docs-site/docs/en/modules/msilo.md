@@ -1,7 +1,6 @@
 ---
 title: "MSILO Module"
 description: "This modules provides offline message storage for the Open SIP Server."
-sidebar: false
 ---
 
 

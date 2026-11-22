@@ -1,6 +1,5 @@
 ---
 title: "Stun Module"
-sidebar: false
 ---
 
 

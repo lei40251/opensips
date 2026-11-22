@@ -1,7 +1,6 @@
 ---
 title: "presence_dfks 模块"
 description: "本模块使 presence 模块能够处理 \"as-feature-event\" 事件包（由 Broadsoft 的 [Device Feature Key Synchronization](https://h30434.www3.hp.com/psg/attachments/psg/Desk_IP_Conference_Phones/1740/1/DeviceFeatureKeySynchronizationFD.pdf) 协议定义）。"
-sidebar: false
 ---
 
 

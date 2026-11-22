@@ -1,7 +1,6 @@
 ---
 title: "rest_client Module"
 description: "The *rest_client* module provides a means of interacting with an HTTP server by doing RESTful queries, such as GET, POST and PUT."
-sidebar: false
 ---
 
 

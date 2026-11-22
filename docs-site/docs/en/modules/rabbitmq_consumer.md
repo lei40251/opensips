@@ -1,7 +1,6 @@
 ---
 title: "RabbitMQ Consumer Module"
 description: "*RabbitMQ Consumer* ([http://www.rabbitmq.com/](http://www.rabbitmq.com/)) is an open source messaging server."
-sidebar: false
 ---
 
 

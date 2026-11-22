@@ -1,7 +1,6 @@
 ---
 title: "uac 模块"
 description: "UAC（User Agent Client）模块提供了一些基本的 UAC 功能，例如 FROM / TO 头域操作（匿名化）或客户端鉴权。"
-sidebar: false
 ---
 
 

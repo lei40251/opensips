@@ -1,7 +1,6 @@
 ---
 title: "TCP 管理模块 (tcp_mgm)"
 description: "本模块为 OpenSIPS 上所有 TCP 连接的细粒度管理提供可选的、基于 SQL 的支持。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

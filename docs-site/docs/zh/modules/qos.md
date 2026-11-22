@@ -1,7 +1,6 @@
 ---
 title: "QOS 模块"
 description: "qos 模块提供了一种按对话跟踪 SDP 会话的方法。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

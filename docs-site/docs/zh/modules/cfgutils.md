@@ -1,7 +1,6 @@
 ---
 title: "cfgutils 模块"
 description: "为服务器配置提供的有用扩展。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

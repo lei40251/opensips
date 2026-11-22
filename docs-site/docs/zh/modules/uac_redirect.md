@@ -1,7 +1,6 @@
 ---
 title: "UAC REDIRECT 模块"
 description: "UAC REDIRECT（User Agent Client redirection，用户代理客户端重定向）模块为 OpenSIPS 增强处理（解析、过滤、记录并跟随）重定向应答（3xx 应答类）的能力。"
-sidebar: false
 ---
 
 

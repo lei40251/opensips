@@ -1,7 +1,6 @@
 ---
 title: "sl Module"
 description: "The SL module allows OpenSIPS to act as a stateless UA server and generate replies to SIP requests without keeping state."
-sidebar: false
 ---
 
 

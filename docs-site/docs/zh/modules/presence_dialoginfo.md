@@ -1,7 +1,6 @@
 ---
 title: "presence_dialoginfo 模块"
 description: "本模块使 presence 模块内部能够处理 \"Event: dialog\"（如 RFC 4235 所定义）。"
-sidebar: false
 ---
 
 

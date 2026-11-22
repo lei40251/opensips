@@ -1,7 +1,6 @@
 ---
 title: "Dynamic Sockets Management Module"
 description: "This module provides the means to provision and manage dynamic sockets for OpenSIPS at runtime."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "presence 模块"
 description: "该模块处理 PUBLISH 与 SUBSCRIBE 消息，并以通用的、与事件无关的方式生成 NOTIFY 消息。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

@@ -1,7 +1,6 @@
 ---
 title: "RTP Relay Module"
 description: "The purpose of this module is to simplify the usage of different RTP Relays Servers (such as RTPProxy, RTPEngine, Media Proxy) in OpenSIPS scripting, as well as to provide various complex features that rely on the usage of RTP relays (such as media re-anchoring)."
-sidebar: false
 ---
 
 

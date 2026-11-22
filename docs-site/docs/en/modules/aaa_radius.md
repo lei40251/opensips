@@ -1,7 +1,6 @@
 ---
 title: "AAA RADIUS MODULE"
 description: "This module provides a Radius implementation for the AAA API from the core."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "rate_cacher 模块"
 description: "rate_cacher 模块提供对所分配的客户和/或供应商费率表进行缓存与实时查询的手段。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

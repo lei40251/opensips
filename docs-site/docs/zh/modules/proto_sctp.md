@@ -1,7 +1,6 @@
 ---
 title: "proto_sctp 模块"
 description: "**proto_sctp** 模块是一个可选的传输模块（共享库），它导出处理基于 SCTP 的通信所需的逻辑。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

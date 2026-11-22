@@ -1,7 +1,6 @@
 ---
 title: "Script Helper Module"
 description: "The purpose of the **Script Helper module** is to simplify the scripting process in OpenSIPS when doing basic scenarios."
-sidebar: false
 ---
 
 

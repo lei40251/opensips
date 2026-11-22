@@ -1,7 +1,6 @@
 ---
 title: "动态套接字管理模块"
 description: "本模块提供了在运行时为 OpenSIPS 配置和管理动态套接字的手段。"
-sidebar: false
 ---
 
 

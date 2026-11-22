@@ -1,7 +1,6 @@
 ---
 title: "jabber 模块"
 description: "这是 Jabber 模块的新版本，集成 XODE XML 解析器用于解析 Jabber 消息。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

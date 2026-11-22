@@ -1,7 +1,6 @@
 ---
 title: "DB_ORACLE Module"
 description: "This is a module which provides Oracle connectivity for OpenSIPS."
-sidebar: false
 ---
 
 

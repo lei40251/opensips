@@ -1,7 +1,6 @@
 ---
 title: "资源列表服务器"
 description: "本模块是遵循 RFC 4662 与 RFC 4826 规范的资源列表服务器（Resource List Server）实现。"
-sidebar: false
 ---
 
 

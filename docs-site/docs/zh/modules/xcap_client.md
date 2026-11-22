@@ -1,7 +1,6 @@
 ---
 title: "XCAP 客户端模块 (xcap_client)"
 description: "本模块是 OpenSIPS 的 XCAP 客户端，可供其他模块使用。"
-sidebar: false
 ---
 
 

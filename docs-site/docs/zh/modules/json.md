@@ -1,7 +1,6 @@
 ---
 title: "JSON 模块"
 description: "本模块引入一种新型变量，它同时提供 JSON 格式的序列化与反序列化能力。"
-sidebar: false
 ---
 
 

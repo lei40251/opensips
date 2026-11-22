@@ -1,7 +1,6 @@
 ---
 title: "proto_ws 模块"
 description: "WebSocket 协议（[RFC 6455](http://tools.ietf.org/html/rfc6455)）在两个基于 Web 的应用之间提供端到端的全双工通信通道。"
-sidebar: false
 ---
 
 

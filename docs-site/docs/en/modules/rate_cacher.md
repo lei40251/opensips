@@ -1,7 +1,6 @@
 ---
 title: "RATE_CACHER Module"
 description: "The *rate_cacher* module provides a means of caching and real-time querying of the ratesheets assigned to your clients and / or vendors."
-sidebar: false
 ---
 
 

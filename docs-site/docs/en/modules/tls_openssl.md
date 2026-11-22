@@ -1,7 +1,6 @@
 ---
 title: "tls_openssl Module"
 description: "This module implements TLS operations using the [openSSL](https://www.openssl.org/) libarary."
-sidebar: false
 ---
 
 

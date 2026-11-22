@@ -1,7 +1,6 @@
 ---
 title: "UUID Module"
 description: "This module provides a way to generate universally unique identifiers (UUID) as specified in RFC 4122."
-sidebar: false
 ---
 
 

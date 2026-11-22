@@ -1,7 +1,6 @@
 ---
 title: "Auth_db Module"
 description: "This module contains all authentication related functions that need the access to the database. This module should be used together with auth module, it cannot be used independently because it depends on the module."
-sidebar: false
 ---
 
 

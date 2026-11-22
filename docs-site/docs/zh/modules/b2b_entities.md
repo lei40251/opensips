@@ -1,7 +1,6 @@
 ---
 title: "b2b_entities 模块"
 description: "本模块实现 OpenSIPS 的 B2BUA 实现所需的 UAS 与 UAC 基本功能。"
-sidebar: false
 ---
 
 

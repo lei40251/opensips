@@ -1,7 +1,6 @@
 ---
 title: "Presence Module"
 description: "The modules handles PUBLISH and SUBSCRIBE messages and generates NOTIFY messages in a general, event independent way."
-sidebar: false
 ---
 
 

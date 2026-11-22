@@ -1,7 +1,6 @@
 ---
 title: "sqlops 模块"
 description: "sqlops（SQL 操作）模块实现了一组脚本函数，用于执行通用的 SQL 标准查询（原始查询或结构化查询）。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "load_balancer 模块"
 description: "Load-Balancer 模块用于提供基于负载的流量路由。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

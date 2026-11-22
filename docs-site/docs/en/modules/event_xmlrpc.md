@@ -1,7 +1,6 @@
 ---
 title: "event_xmlrpc Module"
 description: "This module is an implementation of an XMLRPC client used to notify XMLRPC servers whenever certain notifications are raised by OpenSIPS."
-sidebar: false
 ---
 
 

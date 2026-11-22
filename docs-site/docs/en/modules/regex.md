@@ -1,7 +1,6 @@
 ---
 title: "Regex Module"
 description: "This module offers matching operations against regular expressions using the powerful [PCRE](http://www.pcre.org/) library."
-sidebar: false
 ---
 
 

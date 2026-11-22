@@ -1,7 +1,6 @@
 ---
 title: "b2b_logic 模块"
 description: "本模块是 B2BUA 的逻辑引擎，负责利用底层提供的功能实际实现 B2BUA 服务。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

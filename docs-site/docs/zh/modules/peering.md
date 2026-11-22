@@ -1,7 +1,6 @@
 ---
 title: "peering 模块"
 description: "peering 模块允许 SIP 提供商（运营商或组织）向中介核验某个 SIP 请求的源或目的是否为可信对端。"
-sidebar: false
 ---
 
 

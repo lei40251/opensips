@@ -1,7 +1,6 @@
 ---
 title: "db_oracle 模块"
 description: "本模块为 OpenSIPS 提供 Oracle 连接能力。"
-sidebar: false
 ---
 
 

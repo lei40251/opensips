@@ -1,7 +1,6 @@
 ---
 title: "拓扑隐藏模块"
 description: "该模块提供拓扑隐藏能力。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

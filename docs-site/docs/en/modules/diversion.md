@@ -1,7 +1,6 @@
 ---
 title: "Diversion Module"
 description: "The module implements the Diversion extensions as per draft-levy-sip-diversion-08."
-sidebar: false
 ---
 
 

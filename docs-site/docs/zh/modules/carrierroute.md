@@ -1,7 +1,6 @@
 ---
 title: "carrierroute 模块"
 description: "提供路由、负载均衡与黑名单能力的模块。"
-sidebar: false
 ---
 
 

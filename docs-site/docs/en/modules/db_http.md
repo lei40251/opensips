@@ -1,7 +1,6 @@
 ---
 title: "DB_HTTP Module"
 description: "This module provides access to a database that is implemented as a HTTP server. It may be used in special cases where traversing firewalls is a problem, or where data encryption is required."
-sidebar: false
 ---
 
 

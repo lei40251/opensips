@@ -1,7 +1,6 @@
 ---
 title: "presence_dfks Module"
 description: "The module enables the handling of the \"as-feature-event\" event package (as defined by Broadsoft's [Device Feature Key Synchronization](https://h30434.www3.hp.com/psg/attachments/psg/Desk_IP_Conference_Phones/1740/1/DeviceFeatureKeySynchronizationFD.pdf) protocol) by the presence module."
-sidebar: false
 ---
 
 

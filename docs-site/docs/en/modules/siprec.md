@@ -1,7 +1,6 @@
 ---
 title: "SIPREC Module"
 description: "This module provides the means to do calls recording using an external recorder - the entity that records the call is not in the media path between the caller and callee, but it is completely separate, thus it can not affect by any means the quality of the conversation."
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "event_rabbitmq Module"
 description: "*RabbitMQ* ([http://www.rabbitmq.com/](http://www.rabbitmq.com/)) is an open source messaging server."
-sidebar: false
 ---
 
 

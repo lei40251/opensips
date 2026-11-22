@@ -1,7 +1,6 @@
 ---
 title: "mathops 模块"
 description: "mathops 模块提供一系列函数，可在 OpenSIPS 脚本层执行各种浮点运算。"
-sidebar: false
 ---
 
 

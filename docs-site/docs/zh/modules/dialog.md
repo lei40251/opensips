@@ -1,7 +1,6 @@
 ---
 title: "dialog 模块"
 description: "dialog 模块为 OpenSIPS 代理提供对话感知能力。"
-sidebar: false
 ---
 
 

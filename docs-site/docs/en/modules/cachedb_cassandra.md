@@ -1,7 +1,6 @@
 ---
 title: "cachedb_cassandra Module"
 description: "This module is an implementation of a cache system designed to work with Cassandra servers. It uses the Key-Value interface exported from the core."
-sidebar: false
 ---
 
 

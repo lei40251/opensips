@@ -1,7 +1,6 @@
 ---
 title: "Resource List Server"
 description: "The modules is a Resource List Server implementation following the specification in RFC 4662 and RFC 4826."
-sidebar: false
 ---
 
 

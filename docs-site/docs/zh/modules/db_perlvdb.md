@@ -1,7 +1,6 @@
 ---
 title: "DB_PERLVDB 模块"
 description: "Perl 虚拟数据库（VDB）为 OpenSIPS 的数据库访问提供虚拟化框架，它本身不处理特定的数据库引擎，而是让用户把数据库请求转发给任意的 Perl 函数。"
-sidebar: false
 ---
 
 

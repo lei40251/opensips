@@ -1,7 +1,6 @@
 ---
 title: "AKA 鉴权向量 Diameter 模块"
 description: "本模块是 AKA_AUTH 模块的扩展，提供一个 Diameter AKA 鉴权向量（AV）管理器，实现 Multimedia-Auth-Request 与 Multimedia-Auth-Answer 两条 Diameter 命令。"
-sidebar: false
 ---
 
 

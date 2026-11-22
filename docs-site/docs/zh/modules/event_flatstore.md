@@ -1,7 +1,6 @@
 ---
 title: "event_flatstore 模块"
 description: "event_flatstore 模块提供了一套日志设施，用于记录通过 OpenSIPS Event 接口、直接从 OpenSIPS 脚本触发的各类事件。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "sipmsgops Module"
 description: "The module implements SIP based operations over the messages processed by OpenSIPS."
-sidebar: false
 ---
 
 

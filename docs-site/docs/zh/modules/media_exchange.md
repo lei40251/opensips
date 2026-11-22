@@ -1,7 +1,6 @@
 ---
 title: "media_exchange 模块"
 description: "本模块提供了在不同 SIP 代理呼叫之间，以及与由媒体服务器发起或接收的呼叫之间交换媒体 SDP 的手段。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

@@ -1,7 +1,6 @@
 ---
 title: "STIR/SHAKEN Module"
 description: "This module adds support for implementing STIR/SHAKEN (RFC 8224, RFC 8588) Authentication and Verification services in OpenSIPS."
-sidebar: false
 ---
 
 

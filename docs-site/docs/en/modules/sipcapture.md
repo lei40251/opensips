@@ -1,7 +1,6 @@
 ---
 title: "SipCapture Module"
 description: "Offer a possibility to store incoming/outgoing SIP messages in database."
-sidebar: false
 ---
 
 

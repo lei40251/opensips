@@ -1,7 +1,6 @@
 ---
 title: "MSRP Relay 模块"
 description: "本模块按照 RFC 4976 的规范实现 MSRP 协议的中继。"
-sidebar: false
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "presence_mwi 模块"
 description: "本模块按照 RFC 3842 的规定，对 notify-subscribe message-summary（消息等待指示）事件进行专门处理。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

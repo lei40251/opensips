@@ -1,7 +1,6 @@
 ---
 title: "group Module"
 description: "This module provides functionalities for different methods of group membership checking."
-sidebar: false
 ---
 
 

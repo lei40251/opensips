@@ -1,7 +1,6 @@
 ---
 title: "proto_bin Module"
 description: "The **proto_bin** module is a transport module which implements Binary Interface TCP-based communication."
-sidebar: false
 ---
 
 

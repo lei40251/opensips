@@ -1,7 +1,6 @@
 ---
 title: "QOS Module"
 description: "The qos module provides a way to keep track of per dialog SDP session(s)."
-sidebar: false
 ---
 
 

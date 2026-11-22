@@ -1,7 +1,6 @@
 ---
 title: "example 模块"
 description: "该模块演示了如何在 OpenSIPS 中编写一个模块。"
-sidebar: false
 ---
 
 

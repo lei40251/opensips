@@ -1,7 +1,6 @@
 ---
 title: "launch_darkly Module"
 description: "This module implements support for the [Launch Darkly](https://launchdarkly.com/) feature management cloud."
-sidebar: false
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: "DB_VIRTUAL Module"
-sidebar: false
 ---
 
 

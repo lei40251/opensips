@@ -1,7 +1,6 @@
 ---
 title: "JSON-RPC 模块"
 description: "本模块是 JSON-RPC v2.0 客户端 [http://www.jsonrpc.org/specification](http://www.jsonrpc.org/specification) 的一种实现，可以通过 TCP 连接向 JSON-RPC 服务器发送调用。"
-sidebar: false
 ---
 
 ## 管理指南 {#admin-guide}

@@ -1,7 +1,6 @@
 ---
 title: "tls_wolfssl 模块"
 description: "本模块使用 [wolfSSL](https://www.wolfssl.com/) 库实现 TLS 操作。"
-sidebar: false
 ---
 
 ## 管理员指南 {#admin-guide}

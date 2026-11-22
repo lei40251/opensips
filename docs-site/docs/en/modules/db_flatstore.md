@@ -1,7 +1,6 @@
 ---
 title: "DB_FLATSTORE Module"
 description: "Flatstore is one of so-called OpenSIPS database modules. It does not export any functions executable from the configuration scripts, but it exports a subset of functions from the database API and thus other module can use it instead of, for example, mysql module."
-sidebar: false
 ---
 
 

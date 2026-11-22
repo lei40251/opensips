@@ -1,7 +1,6 @@
 ---
 title: "UUID 模块"
 description: "本模块提供按 RFC 4122 规范生成通用唯一标识符（UUID）的方式。"
-sidebar: false
 ---
 
 

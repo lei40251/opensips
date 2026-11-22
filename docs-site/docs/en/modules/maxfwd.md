@@ -1,7 +1,6 @@
 ---
 title: "maxfwd Module"
 description: "The module implements all the operations regarding MaX-Forward header field, like adding it (if not present) or decrementing and checking the value of the existent one."
-sidebar: false
 ---
 
 

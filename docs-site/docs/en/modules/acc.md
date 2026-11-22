@@ -1,7 +1,6 @@
 ---
 title: "Acc Module"
 description: "The ACC module is used to account transaction information to different backends such as syslog, SQL, AAA."
-sidebar: false
 ---
 
 

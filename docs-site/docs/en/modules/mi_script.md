@@ -1,7 +1,6 @@
 ---
 title: "MI script Module"
 description: "This module provides multiple hooks to run Management Interface commands directly from OpenSIPS script."
-sidebar: false
 ---
 
 
